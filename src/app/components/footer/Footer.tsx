@@ -106,9 +106,10 @@ export default function Footer() {
                         type="email"
                         name="email"
                         placeholder="Your email"
+                        className="py-4 px-3"
                       />
                     </label>
-                    <label className="w-[117px] h-[58px] bg-[#23A6F0] flex items-center justify-center text-[#E6E6E6] rounded-[2px]">
+                    <label className="w-[117px] h-[58px] bg-[#23A6F0] flex items-center justify-center text-[#E6E6E6]">
                       <button>Subscribe</button>
                     </label>
                   </div>
